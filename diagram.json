@@ -1,0 +1,6941 @@
+{
+	"nodes": [{
+			"name": "Stan Allen",
+			"value": 14,
+			"group": "Seminar Readings",
+			"papers": ["The Future that is Now", " Stealth Diagrams"],
+			"college": [{
+				"undergrad": "The Cooper Union",
+				"undergradYear": "1981",
+				"graduate": "Princeton",
+				"graduateYear": "1988",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Sylvia Lavin",
+			"value": 7,
+			"group": "Seminar Readings",
+			"papers": "The Temporary Contemporary",
+			"college": [{
+				"undergrad": "Barnard",
+				"undergradYear": "",
+				"graduate": "Columbia",
+				"graduateYear": "",
+				"phd": "Columbia",
+				"phdYear": "1990"
+			}]
+		}, {
+			"name": "George Baird",
+			"value": 5,
+			"group": "Seminar Readings",
+			"papers": "Criticality and its Discontents",
+			"college": [{
+				"undergrad": "University of Toronto",
+				"undergradYear": "1962",
+				"graduate": "University College, London",
+				"graduateYear": "1967",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "John McMorrough",
+			"value": 5,
+			"group": "Seminar Readings",
+			"papers": "Adaptive Reuse",
+			"college": [{
+				"undergrad": "University of Kansas",
+				"undergradYear": "1992",
+				"graduate": "Harvard",
+				"graduateYear": "1998",
+				"phd": "Harvard",
+				"phdYear": "2007"
+			}]
+		}, {
+			"name": "Michael Hays",
+			"value": 10,
+			"group": "Seminar Readings",
+			"papers": "Critical Architecture",
+			"college": [{
+				"undergrad": "Georgia Institute of Technology",
+				"undergradYear": "1976",
+				"graduate": "MIT",
+				"graduateYear": "1979",
+				"phd": "MIT",
+				"phdYear": "1990"
+			}]
+		}, {
+			"name": "Rem Koolhaas",
+			"value": 23,
+			"group": "Seminar Readings",
+			"papers": ["Programmatic Lava", " The Generic City", " Whatever Happened to Urbanism"],
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "Architectural Association",
+				"graduateYear": "1972",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Bernard Tschumi",
+			"value": 7,
+			"group": "Seminar Readings",
+			"papers": "Spaces and Events",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "Swiss Federal Institute of Technology, Zurich",
+				"graduateYear": "1969",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Charles Jencks, Farshid Moussavi, Marjan Colletti",
+			"value": 7,
+			"group": "Seminar Readings",
+			"papers": "The Return of Ornament",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "Harvard",
+				"graduateYear": "1965",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Jefferey Kipnis",
+			"value": 11,
+			"group": "Seminar Readings",
+			"papers": "Cunning of Cosmetics",
+			"college": [{
+				"undergrad": "Georgia Institute of Technology",
+				"undergradYear": "1974",
+				"graduate": "Georgia State",
+				"graduateYear": "1981",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Alejandro Zaera Polo",
+			"value": 6,
+			"group": "Seminar Readings",
+			"papers": "The Politics of the Envelope",
+			"college": [{
+				"undergrad": "Universidad Politecnica de Madrid",
+				"undergradYear": "1988",
+				"graduate": "Harvard",
+				"graduateYear": "1991",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Antoine Picon",
+			"value": 5,
+			"group": "Seminar Readings",
+			"papers": "Towards a New Materiality",
+			"college": [{
+				"undergrad": "l'Ecole Polytechnique",
+				"undergradYear": "1979",
+				"graduate": "l'Ecole Nationale des Ponts et Chaussees",
+				"graduateYear": "1981",
+				"phd": "l'Ecole des Hautes Etudes en Sciences Sociales",
+				"phdYear": "1991"
+			}]
+		}, {
+			"name": "Kenneth Frampton",
+			"value": 9,
+			"group": "Seminar Readings",
+			"papers": "The Case for the Tectonic",
+			"college": [{
+				"undergrad": "Architectural Association, London",
+				"undergradYear": "1956",
+				"graduate": "Architectural Association, London",
+				"graduateYear": "1957",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Margaret Crawford",
+			"value": 10,
+			"group": "Seminar Readings",
+			"papers": ["The World in a Shopping Mall", " Can Architects be Socially Responsible?"],
+			"college": [{
+				"undergrad": "UC Berkeley",
+				"undergradYear": "",
+				"graduate": "Architectural Association",
+				"graduateYear": "",
+				"phd": "UCLA",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Frederic Jameson",
+			"value": 8,
+			"group": "Seminar Readings",
+			"papers": "Postmodernism and Consumer Society",
+			"college": [{
+				"undergrad": "Haverford College",
+				"undergradYear": "",
+				"graduate": "Yale University",
+				"graduateYear": "1959",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Amanda Lawrence",
+			"value": 5,
+			"group": "Seminar Readings",
+			"papers": "Presevation through Replication",
+			"college": [{
+				"undergrad": "Princeton",
+				"undergradYear": "1993",
+				"graduate": "Columbia",
+				"graduateYear": "1998",
+				"phd": "Harvard",
+				"phdYear": "2007"
+			}]
+		}, {
+			"name": "Ines Weizman",
+			"value": 6,
+			"group": "Seminar Readings",
+			"papers": "Architectural Doppelgangers",
+			"college": [{
+				"undergrad": "Bauhaus University Weimar",
+				"undergradYear": "1998",
+				"graduate": "University of Cambridge",
+				"graduateYear": "2000",
+				"phd": "Architectural Association",
+				"phdYear": "2004"
+			}]
+		}, {
+			"name": "Mark Wigley",
+			"value": 11,
+			"group": "Seminar Readings",
+			"papers": ["The Architecture of Atmosphere", " Story Time"],
+			"college": [{
+				"undergrad": "University of Auckland",
+				"undergradYear": "1979",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "University of Auckland",
+				"phdYear": "1987"
+			}]
+		}, {
+			"name": "Robert Somol",
+			"value": 14,
+			"group": "Seminar Readings",
+			"papers": ["Notes around the Doppler Effect and Other Moods", " Dummy Text"],
+			"college": [{
+				"undergrad": "Brown",
+				"undergradYear": "1982",
+				"graduate": "Harvard Law",
+				"graduateYear": "",
+				"phd": "University of Chicago",
+				"phdYear": "1997"
+			}]
+		}, {
+			"name": "Sarah Whiting",
+			"value": 7,
+			"group": "Seminar Readings",
+			"papers": "Notes around the Doppler Effect and Other Moods",
+			"college": [{
+				"undergrad": "Yale",
+				"undergradYear": "",
+				"graduate": "Princeton",
+				"graduateYear": "",
+				"phd": "MIT",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Greg Lynn",
+			"value": 10,
+			"group": "Seminar Readings",
+			"papers": ["Architectural Curvilinearity", " Multiplicitous and Inorganic Bodies"],
+			"college": [{
+				"undergrad": "Miami University of Ohio",
+				"undergradYear": "",
+				"graduate": "Princeton",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Kazys Varnelis",
+			"value": 5,
+			"group": "Seminar Readings",
+			"papers": "The Rise of Network Culture",
+			"college": [{
+				"undergrad": "Cornell",
+				"undergradYear": "1988",
+				"graduate": "Cornell",
+				"graduateYear": "1994"
+			}]
+		}, {
+			"name": "James Corner",
+			"value": 7,
+			"group": "Seminar Readings",
+			"papers": "Eidetic Operations and New Landscapes",
+			"college": [{
+				"undergrad": "Manchester Metropolitan University",
+				"undergradYear": "1983",
+				"graduate": "University of Pennsylvania",
+				"graduateYear": "1986",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Charles Waldheim",
+			"value": 6,
+			"group": "Seminar Readings",
+			"papers": "Landscape as Urbanism",
+			"college": [{
+				"undergrad": "University of Florida",
+				"undergradYear": "1986",
+				"graduate": "University of Pennsylvania",
+				"graduateYear": "1989",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Jane Amidon",
+			"value": 5,
+			"group": "Seminar Readings",
+			"papers": "Big Nature",
+			"college": [{
+				"undergrad": "Williams College",
+				"undergradYear": "1988",
+				"graduate": "Harvard",
+				"graduateYear": "1995",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Deborah Berke",
+			"value": 6,
+			"group": "Seminar Readings",
+			"papers": "Thoughts on the Everyday",
+			"college": [{
+				"undergrad": "Rhode Island School of Design",
+				"undergradYear": "1977",
+				"graduate": "City University of New York",
+				"graduateYear": "1984",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Beatriz Colomina",
+			"value": 5,
+			"group": "Seminar Readings",
+			"papers": "The Media House",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "Escola Tecnica Superior de Arquitectura de Barcelona",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Patricia Phillips",
+			"value": 5,
+			"group": "Seminar Readings",
+			"papers": "Interview with Diller & Scofidio",
+			"college": [{
+				"undergrad": "Muhlenberg College",
+				"undergradYear": "",
+				"graduate": "University of Wisconsin-Madison",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "A F Concord",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Aaron Betsky",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Adam Lowe",
+			"value": 2,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Adriaan Geuze",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Adrian Forty",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Adrian Lahoud",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Alan Colquhoun",
+			"value": 2,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Albert Gore",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Aldo Rossi",
+			"value": 2,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Alex MacLean",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Alexander Caragonne",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Alexander Kluge",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Alexander Robinson",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Alexander Tzonis",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Alexander Wilson",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Alexandra Kirtley",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Alice Friedman",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Alison Smithson",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Andre Leroi-Gourhan",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Andre Viljoen",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Andreas Ruby",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Andrew Saint",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Andy Cameron",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Ann Bergren",
+			"value": 2,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Anotonio Negri",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Anthony Vidler",
+			"value": 2,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Antoni Gaudi",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Aristotle",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Arthur Sciesinger Jr.",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Augustin Berquse",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Bart Lootsma",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Bernadette Bensaude-Vincent",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Bernard Boyle",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Bernard Cache",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Bernard Edelman",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Beth Kapusta",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Bianca Bosker",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Billie Tsien",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Bjarke Ingles",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Boris Groys",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Bruno Latour",
+			"value": 4,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Buckminster Fuller",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Burton Bledstein",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "C.S. Holling",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Cammie McAtee",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Carlota Perez",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Catherine Ingraham",
+			"value": 2,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Cecil Balmond",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Charles Pierce",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Charlie Gere",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Christian Doppler",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Christian Rogner",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Christine Conley",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Christopher Alexander",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Claude Raffstein",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Clay Shirky",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Clement Greenberg",
+			"value": 2,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Cliff Edwards",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Colin Rowe",
+			"value": 7,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Constant Nieuwenhuys",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Craig Owens",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Daniel Abraham",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Daniel Calhoun",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "D'Arcy Wentworth Thompson",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Dave Hickey",
+			"value": 2,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "David Brownlee",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "David Harvey",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "David Leatherbarrow",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "David Ley",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "David Watkin",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Denis Cosgrove",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Denis Hollier",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Denise Scott Brown",
+			"value": 3,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Diane Ghirado",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Donald Rumsfeld",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Donna Haraway",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Doreen Carvajal",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Dorothy Stroud",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Edgar Allen Poe",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Edmund Husserl",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Edward Kaufman",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Edward Mitchell",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Edward Said",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Edwin Layton",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Edwin Panofsky",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Eileen Gray",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Elias Canetti",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Elizabeth Diller",
+			"value": 2,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Elizabeth Meyer",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Elizabeth Smith",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Emerson Goble",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Emile Zola",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Erna Meyer",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Ernest Mandel",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Erwin Panofsky",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Esa Saarinen",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Eve Blau",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Ewald Welbel",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Fazlur Khan",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Felix Guattari",
+			"value": 4,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Fernand Braudel",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Francis Fukuyama",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Francois Jullien",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Frank Gehry",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Frank Lloyd Wright",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Franz Kafka",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Fred Bernstein",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Fred Koetter",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Friedrich Kittler",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Gabriel Dupuy",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Garrett Hardin",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "George Dodds",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "George Nelson",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Georges Bataille",
+			"value": 3,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Gilbert Herbert",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Gilbert Simondon",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Gilles Deleuze",
+			"value": 8,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Giorgio Grassi",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Gottfried Semper",
+			"value": 2,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Gregory Hanks",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Guillaume Apollinaire",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Guy Debord",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Gwendolyn Wright",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Hal Foster",
+			"value": 2,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Hans Frei",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Hans Sedimayr",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Harold Bloom",
+			"value": 2,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Heinrich Schweizer",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Helene Furjan",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Henry Cobb",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Henry Wright",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Herbert Gans",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Hillel Schwartz",
+			"value": 2,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Ian McHarg",
+			"value": 2,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Ian Rowley",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Igna Saffron",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Ignasi de Sola-Morales",
+			"value": 2,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Ilka Ruby",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Ilya Prigogine",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Isabelle Stengers",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Italo Calvino",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Ivan Chtcheglov",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Jacob van der Rijs",
+			"value": 2,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Jacques Derrida",
+			"value": 5,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Jacques Herzog",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "James Corner",
+			"value": 2,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "James Duncan",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "James Fitch",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "James Gleick",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "James Joyce",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "James Olson",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Jane Jacobs",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Jannuzzi Smith",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "JC Nichols",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Jean Arp",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Jean Baudrillard",
+			"value": 2,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Jean-Francois Lyotard",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Jeff Wall",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Jeremy Bentham",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "JG Ballard",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Jim Fisher",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Jim Heinman",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "JJP Oud",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Joan Didon",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Joel Rose",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "John Anderson",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "John Barrell",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "John Blair",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "John Hejduk",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "John Jackson",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "John Pizer",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "John Rajchman",
+			"value": 2,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "John Ruskin",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "John Stilgoe",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "John Summerson",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "John Whiteman",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Johnathan Smith",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Jonathan Crary",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Jorge Silvetti",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Joseph Mali",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Josh McHugh",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "JP Vermont",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Julia Czerniak",
+			"value": 2,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Jurgis Baltrusaitis",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Karl Kraus",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Katharine Bristol",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Kevin Lynch",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Kevin Platt",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Konstantin Kastrissianakis",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Kurt Schwitter",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Kurt Wolff",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Kwame Anothony Appiah",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Laine Lefavaivre",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Lance Gunderson",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Lars Lerup",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Lars Spuybroek",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Le Corbusier",
+			"value": 5,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Lesley Jackson",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Lev Manovich",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Liat Margolis",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Liz Robbins",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Luce Irigrary",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "M Detienne",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Magali Sarfatti Larson",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Manfredo Tafuri",
+			"value": 5,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Manuel Castells",
+			"value": 2,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Manuel De Landa",
+			"value": 2,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Marco Cenzatti",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Marco Frascari",
+			"value": 2,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Marcos Novak",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Mario Manieri-Elia",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Marion Cunningham",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Mark Burry",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Mark Luccarelli",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Mark Taylor",
+			"value": 2,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Marshall McLuhan",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Martin Jay",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Martin van Schaik",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Marvin Trachtenberg",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Maurice Merleau-Ponty",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Maxx Ernst",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Max Horkheimer",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Michael Foucault",
+			"value": 5,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Michael Fried",
+			"value": 3,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Michael Hardt",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Michael Herr",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Michael Meredith",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Michael Minges",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Michael Sorkin",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Michael Speaks",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Michel de Certeau",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Mies van der Rohe",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Morris Hickey Morgan",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Nigel Coates",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Nigel Thrift",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Nikolai Ouroussoff",
+			"value": 2,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Nikolaus Kuhnert",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Norman Foster",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Oskar Negt",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Otakar Mael",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Pat Kirkham",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Patricia Pearson",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Patrik Schumacher",
+			"value": 2,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Paul Baran",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Paul Cret",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Paul Edwards",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Paul Hirst",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Paul Virilio",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Peter Eisenman",
+			"value": 8,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Peter Rowe",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Peter Schjeldahl",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Peter Schwartz",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Peter Sloterdijk",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Peter Smithson",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Peter Weibel",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Peter Zellner",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Peter Zumthor",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Philip Johnson",
+			"value": 2,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Phillippe Boudon",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Pierre de la Ruffiniere du Prey",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Pierre Veltz",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Piet Mondrian",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Pruitt Igoe",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Rachel Carson",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Randall Ott",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Raymond Williams",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Reinhold Martin",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Rene Thom",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Reyner Banham",
+			"value": 3,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Richard Scofidio",
+			"value": 2,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Richard Barbook",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Richard Forman",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Richard Koek",
+			"value": 2,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Richard Meier",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Richard Rodgers",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Richard Sennett",
+			"value": 3,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Richard Serra",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Richard Weller",
+			"value": 3,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Robert Gutman",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Robert Merges",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Robert Putnam",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Robert Venturi",
+			"value": 6,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Robert Wiebe",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Roberto Unger",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Robin Evans",
+			"value": 3,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Robin  Pogrebin",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Rodney Brooks",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Rodolfo Machado",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Roemer van Toorn",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Roland Barthes",
+			"value": 2,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Ron Witte",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Ronald Grover",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Rosalind Krauss",
+			"value": 3,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Rudolf Wittkower",
+			"value": 2,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Ryan Singel",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Samuel Haber",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Sanford Kwinter",
+			"value": 4,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Saskia Sassen",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Sibel Bozdogan",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Sigfried Gideon",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Simon Reynolds",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Slavoj Zizek",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Stanford Anderson",
+			"value": 2,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Stefano Boeri",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Stephen Perella",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Steven Harris",
+			"value": 2,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Steven Izenour",
+			"value": 2,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Steven Kates",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Steven Kieran",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Susan Sontag",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Terry Riley",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Theodor Adorno",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Thomas Frank",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Thomas Hines",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Thomas Leeser",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Thurgood Marshall",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Tiziana Terranova",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "TJ Johnson",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Tod Williams",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Tom Dyckhoff",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Toshiko Mori",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Toyo Ito",
+			"value": 2,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Trevor Phillips",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Tricia Struth",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Ulrich Beck",
+			"value": 2,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Victor Gruen",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Virtruvius",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Vittorio Gregotti",
+			"value": 2,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Walter Benjamin",
+			"value": 4,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Walter Lippmann",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Walter Ong",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Walter Peter",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Wenche Dramstad",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "WG Sebald",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Will Hurst",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "William Bateson",
+			"value": 2,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "William Dawson",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "William Gibson",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "William Kowinski",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "William Leiss",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "William Mitchell",
+			"value": 2,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "William Thompson",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Winy Maas",
+			"value": 2,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Yochai Benkler",
+			"value": 1,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Yves-Alain Bois",
+			"value": 2,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}, {
+			"name": "Zaha Hadid",
+			"value": 2,
+			"group": "External Reference",
+			"papers": "",
+			"college": [{
+				"undergrad": "",
+				"undergradYear": "",
+				"graduate": "",
+				"graduateYear": "",
+				"phd": "",
+				"phdYear": ""
+			}]
+		}
+
+	],
+
+	"links": [{
+			"source": 0,
+			"target": 50,
+			"paper": "The Future That is Now"
+		}, {
+			"source": 0,
+			"target": 73,
+			"paper": "The Future That is Now"
+		}, {
+			"source": 0,
+			"target": 156,
+			"paper": "The Future That is Now"
+		}, {
+			"source": 0,
+			"target": 21,
+			"paper": "The Future That is Now"
+		}, {
+			"source": 0,
+			"target": 8,
+			"paper": "The Future That is Now"
+		}, {
+			"source": 0,
+			"target": 202,
+			"paper": "The Future That is Now"
+		}, {
+			"source": 0,
+			"target": 218,
+			"paper": "The Future That is Now"
+		}, {
+			"source": 0,
+			"target": 253,
+			"paper": "The Future That is Now"
+		}, {
+			"source": 0,
+			"target": 5,
+			"paper": "The Future That is Now"
+		}, {
+			"source": 0,
+			"target": 264,
+			"paper": "The Future That is Now"
+		}, {
+			"source": 0,
+			"target": 135,
+			"paper": "Stealth Diagrams"
+		}, {
+			"source": 0,
+			"target": 328,
+			"paper": "Stealth Diagrams"
+		}, {
+			"source": 0,
+			"target": 348,
+			"paper": "Stealth Diagrams"
+		}, {
+			"source": 0,
+			"target": 75,
+			"paper": "Stealth Diagrams"
+		}, {
+			"source": 0,
+			"target": 143,
+			"paper": "Stealth Diagrams"
+		}, {
+			"source": 0,
+			"target": 126,
+			"paper": "Stealth Diagrams"
+		}, {
+			"source": 0,
+			"target": 4,
+			"paper": "Stealth Diagrams"
+		}, {
+			"source": 0,
+			"target": 17,
+			"paper": "Stealth Diagrams"
+		}, {
+			"source": 1,
+			"target": 43,
+			"paper": "The Temporary Contemporary"
+		}, {
+			"source": 1,
+			"target": 46,
+			"paper": "The Temporary Contemporary"
+		}, {
+			"source": 1,
+			"target": 71,
+			"paper": "The Temporary Contemporary"
+		}, {
+			"source": 1,
+			"target": 104,
+			"paper": "The Temporary Contemporary"
+		}, {
+			"source": 1,
+			"target": 117,
+			"paper": "The Temporary Contemporary"
+		}, {
+			"source": 1,
+			"target": 139,
+			"paper": "The Temporary Contemporary"
+		}, {
+			"source": 1,
+			"target": 155,
+			"paper": "The Temporary Contemporary"
+		}, {
+			"source": 1,
+			"target": 157,
+			"paper": "The Temporary Contemporary"
+		}, {
+			"source": 1,
+			"target": 8,
+			"paper": "The Temporary Contemporary"
+		}, {
+			"source": 1,
+			"target": 224,
+			"paper": "The Temporary Contemporary"
+		}, {
+			"source": 1,
+			"target": 250,
+			"paper": "The Temporary Contemporary"
+		}, {
+			"source": 1,
+			"target": 267,
+			"paper": "The Temporary Contemporary"
+		}, {
+			"source": 1,
+			"target": 280,
+			"paper": "The Temporary Contemporary"
+		}, {
+			"source": 1,
+			"target": 286,
+			"paper": "The Temporary Contemporary"
+		}, {
+			"source": 1,
+			"target": 311,
+			"paper": "The Temporary Contemporary"
+		}, {
+			"source": 1,
+			"target": 319,
+			"paper": "The Temporary Contemporary"
+		}, {
+			"source": 1,
+			"target": 326,
+			"paper": "The Temporary Contemporary"
+		}, {
+			"source": 1,
+			"target": 355,
+			"paper": "The Temporary Contemporary"
+		}, {
+			"source": 2,
+			"target": 62,
+			"paper": "Criticality and Its Discontents"
+		}, {
+			"source": 2,
+			"target": 91,
+			"paper": "Criticality and Its Discontents"
+		}, {
+			"source": 2,
+			"target": 114,
+			"paper": "Criticality and Its Discontents"
+		}, {
+			"source": 2,
+			"target": 13,
+			"paper": "Criticality and Its Discontents"
+		}, {
+			"source": 2,
+			"target": 163,
+			"paper": "Criticality and Its Discontents"
+		}, {
+			"source": 2,
+			"target": 11,
+			"paper": "Criticality and Its Discontents"
+		}, {
+			"source": 2,
+			"target": 223,
+			"paper": "Criticality and Its Discontents"
+		}, {
+			"source": 2,
+			"target": 231,
+			"paper": "Criticality and Its Discontents"
+		}, {
+			"source": 2,
+			"target": 4,
+			"paper": "Criticality and Its Discontents"
+		}, {
+			"source": 2,
+			"target": 255,
+			"paper": "Criticality and Its Discontents"
+		}, {
+			"source": 2,
+			"target": 256,
+			"paper": "Criticality and Its Discontents"
+		}, {
+			"source": 2,
+			"target": 275,
+			"paper": "Criticality and Its Discontents"
+		}, {
+			"source": 2,
+			"target": 5,
+			"paper": "Criticality and Its Discontents"
+		}, {
+			"source": 2,
+			"target": 296,
+			"paper": "Criticality and Its Discontents"
+		}, {
+			"source": 2,
+			"target": 17,
+			"paper": "Criticality and Its Discontents"
+		}, {
+			"source": 2,
+			"target": 315,
+			"paper": "Criticality and Its Discontents"
+		}, {
+			"source": 2,
+			"target": 18,
+			"paper": "Criticality and Its Discontents"
+		}, {
+			"source": 2,
+			"target": 0,
+			"paper": "Criticality and Its Discontents"
+		}, {
+			"source": 2,
+			"target": 1,
+			"paper": "Criticality and Its Discontents"
+		}, {
+			"source": 3,
+			"target": 31,
+			"paper": "Adaptive Reuse"
+		}, {
+			"source": 3,
+			"target": 35,
+			"paper": "Adaptive Reuse"
+		}, {
+			"source": 3,
+			"target": 47,
+			"paper": "Adaptive Reuse"
+		}, {
+			"source": 3,
+			"target": 52,
+			"paper": "Adaptive Reuse"
+		}, {
+			"source": 3,
+			"target": 6,
+			"paper": "Adaptive Reuse"
+		}, {
+			"source": 3,
+			"target": 9,
+			"paper": "Adaptive Reuse"
+		}, {
+			"source": 3,
+			"target": 88,
+			"paper": "Adaptive Reuse"
+		}, {
+			"source": 3,
+			"target": 99,
+			"paper": "Adaptive Reuse"
+		}, {
+			"source": 3,
+			"target": 143,
+			"paper": "Adaptive Reuse"
+		}, {
+			"source": 3,
+			"target": 164,
+			"paper": "Adaptive Reuse"
+		}, {
+			"source": 3,
+			"target": 8,
+			"paper": "Adaptive Reuse"
+		}, {
+			"source": 3,
+			"target": 188,
+			"paper": "Adaptive Reuse"
+		}, {
+			"source": 3,
+			"target": 201,
+			"paper": "Adaptive Reuse"
+		}, {
+			"source": 3,
+			"target": 214,
+			"paper": "Adaptive Reuse"
+		}, {
+			"source": 3,
+			"target": 223,
+			"paper": "Adaptive Reuse"
+		}, {
+			"source": 3,
+			"target": 231,
+			"paper": "Adaptive Reuse"
+		}, {
+			"source": 3,
+			"target": 249,
+			"paper": "Adaptive Reuse"
+		}, {
+			"source": 3,
+			"target": 275,
+			"paper": "Adaptive Reuse"
+		}, {
+			"source": 3,
+			"target": 289,
+			"paper": "Adaptive Reuse"
+		}, {
+			"source": 3,
+			"target": 17,
+			"paper": "Adaptive Reuse"
+		}, {
+			"source": 3,
+			"target": 308,
+			"paper": "Adaptive Reuse"
+		}, {
+			"source": 3,
+			"target": 1,
+			"paper": "Adaptive Reuse"
+		}, {
+			"source": 4,
+			"target": 85,
+			"paper": "Critical Architecture"
+		}, {
+			"source": 4,
+			"target": 96,
+			"paper": "Critical Architecture"
+		}, {
+			"source": 4,
+			"target": 109,
+			"paper": "Critical Architecture"
+		}, {
+			"source": 4,
+			"target": 134,
+			"paper": "Critical Architecture"
+		}, {
+			"source": 4,
+			"target": 181,
+			"paper": "Critical Architecture"
+		}, {
+			"source": 4,
+			"target": 211,
+			"paper": "Critical Architecture"
+		}, {
+			"source": 4,
+			"target": 217,
+			"paper": "Critical Architecture"
+		}, {
+			"source": 4,
+			"target": 247,
+			"paper": "Critical Architecture"
+		}, {
+			"source": 4,
+			"target": 258,
+			"paper": "Critical Architecture"
+		}, {
+			"source": 4,
+			"target": 284,
+			"paper": "Critical Architecture"
+		}, {
+			"source": 4,
+			"target": 288,
+			"paper": "Critical Architecture"
+		}, {
+			"source": 4,
+			"target": 314,
+			"paper": "Critical Architecture"
+		}, {
+			"source": 4,
+			"target": 319,
+			"paper": "Critical Architecture"
+		}, {
+			"source": 4,
+			"target": 329,
+			"paper": "Critical Architecture"
+		}, {
+			"source": 4,
+			"target": 355,
+			"paper": "Critical Architecture"
+		}, {
+			"source": 5,
+			"target": 216,
+			"paper": "The Generic City"
+		}, {
+			"source": 5,
+			"target": 170,
+			"paper": "Whatever Happened to Urbanism"
+		}, {
+			"source": 5,
+			"target": 182,
+			"paper": "Whatever Happened to Urbanism"
+		}, {
+			"source": 5,
+			"target": 274,
+			"paper": "Whatever Happened to Urbanism"
+		}, {
+			"source": 6,
+			"target": 105,
+			"paper": "Spaces and Events"
+		}, {
+			"source": 6,
+			"target": 132,
+			"paper": "Spaces and Events"
+		}, {
+			"source": 6,
+			"target": 167,
+			"paper": "Spaces and Events"
+		}, {
+			"source": 6,
+			"target": 176,
+			"paper": "Spaces and Events"
+		}, {
+			"source": 7,
+			"target": 53,
+			"paper": "The Return of Ornament"
+		}, {
+			"source": 7,
+			"target": 171,
+			"paper": "The Return of Ornament"
+		}, {
+			"source": 7,
+			"target": 199,
+			"paper": "The Return of Ornament"
+		}, {
+			"source": 7,
+			"target": 222,
+			"paper": "The Return of Ornament"
+		}, {
+			"source": 7,
+			"target": 283,
+			"paper": "The Return of Ornament"
+		}, {
+			"source": 7,
+			"target": 5,
+			"paper": "The Return of Ornament"
+		}, {
+			"source": 7,
+			"target": 295,
+			"paper": "The Return of Ornament"
+		}, {
+			"source": 7,
+			"target": 300,
+			"paper": "The Return of Ornament"
+		}, {
+			"source": 7,
+			"target": 358,
+			"paper": "The Return of Ornament"
+		}, {
+			"source": 7,
+			"target": 372,
+			"paper": "The Return of Ornament"
+		}, {
+			"source": 8,
+			"target": 9,
+			"paper": "Cunning of Cosmetics"
+		}, {
+			"source": 8,
+			"target": 5,
+			"paper": "Cunning of Cosmetics"
+		}, {
+			"source": 8,
+			"target": 241,
+			"paper": "Cunning of Cosmetics"
+		}, {
+			"source": 8,
+			"target": 337,
+			"paper": "Cunning of Cosmetics"
+		}, {
+			"source": 8,
+			"target": 151,
+			"paper": "Cunning of Cosmetics"
+		}, {
+			"source": 8,
+			"target": 229,
+			"paper": "Cunning of Cosmetics"
+		}, {
+			"source": 8,
+			"target": 208,
+			"paper": "Cunning of Cosmetics"
+		}, {
+			"source": 8,
+			"target": 275,
+			"paper": "Cunning of Cosmetics"
+		}, {
+			"source": 8,
+			"target": 265,
+			"paper": "Cunning of Cosmetics"
+		}, {
+			"source": 9,
+			"target": 310,
+			"paper": "The Politics of the Envelope"
+		}, {
+			"source": 9,
+			"target": 67,
+			"paper": "The Politics of the Envelope"
+		}, {
+			"source": 9,
+			"target": 231,
+			"paper": "The Politics of the Envelope"
+		}, {
+			"source": 9,
+			"target": 145,
+			"paper": "The Politics of the Envelope"
+		}, {
+			"source": 9,
+			"target": 54,
+			"paper": "The Politics of the Envelope"
+		}, {
+			"source": 9,
+			"target": 281,
+			"paper": "The Politics of the Envelope"
+		}, {
+			"source": 9,
+			"target": 85,
+			"paper": "The Politics of the Envelope"
+		}, {
+			"source": 9,
+			"target": 183,
+			"paper": "The Politics of the Envelope"
+		}, {
+			"source": 9,
+			"target": 232,
+			"paper": "The Politics of the Envelope"
+		}, {
+			"source": 9,
+			"target": 279,
+			"paper": "The Politics of the Envelope"
+		}, {
+			"source": 9,
+			"target": 346,
+			"paper": "The Politics of the Envelope"
+		}, {
+			"source": 9,
+			"target": 351,
+			"paper": "The Politics of the Envelope"
+		}, {
+			"source": 9,
+			"target": 302,
+			"paper": "The Politics of the Envelope"
+		}, {
+			"source": 9,
+			"target": 273,
+			"paper": "The Politics of the Envelope"
+		}, {
+			"source": 9,
+			"target": 93,
+			"paper": "The Politics of the Envelope"
+		}, {
+			"source": 9,
+			"target": 65,
+			"paper": "The Politics of the Envelope"
+		}, {
+			"source": 9,
+			"target": 68,
+			"paper": "The Politics of the Envelope"
+		}, {
+			"source": 9,
+			"target": 5,
+			"paper": "The Politics of the Envelope"
+		}, {
+			"source": 9,
+			"target": 264,
+			"paper": "The Politics of the Envelope"
+		}, {
+			"source": 9,
+			"target": 261,
+			"paper": "The Politics of the Envelope"
+		}, {
+			"source": 9,
+			"target": 33,
+			"paper": "The Politics of the Envelope"
+		}, {
+			"source": 9,
+			"target": 85,
+			"paper": "The Politics of the Envelope"
+		}, {
+			"source": 9,
+			"target": 143,
+			"paper": "The Politics of the Envelope"
+		}, {
+			"source": 9,
+			"target": 126,
+			"paper": "The Politics of the Envelope"
+		}, {
+			"source": 9,
+			"target": 194,
+			"paper": "The Politics of the Envelope"
+		}, {
+			"source": 9,
+			"target": 233,
+			"paper": "The Politics of the Envelope"
+		}, {
+			"source": 9,
+			"target": 356,
+			"paper": "The Politics of the Envelope"
+		}, {
+			"source": 9,
+			"target": 349,
+			"paper": "The Politics of the Envelope"
+		}, {
+			"source": 9,
+			"target": 262,
+			"paper": "The Politics of the Envelope"
+		}, {
+			"source": 9,
+			"target": 372,
+			"paper": "The Politics of the Envelope"
+		}, {
+			"source": 9,
+			"target": 269,
+			"paper": "The Politics of the Envelope"
+		}, {
+			"source": 9,
+			"target": 244,
+			"paper": "The Politics of the Envelope"
+		}, {
+			"source": 9,
+			"target": 266,
+			"paper": "The Politics of the Envelope"
+		}, {
+			"source": 9,
+			"target": 293,
+			"paper": "The Politics of the Envelope"
+		}, {
+			"source": 9,
+			"target": 101,
+			"paper": "The Politics of the Envelope"
+		}, {
+			"source": 9,
+			"target": 284,
+			"paper": "The Politics of the Envelope"
+		}, {
+			"source": 9,
+			"target": 128,
+			"paper": "The Politics of the Envelope"
+		}, {
+			"source": 9,
+			"target": 215,
+			"paper": "The Politics of the Envelope"
+		}, {
+			"source": 9,
+			"target": 313,
+			"paper": "The Politics of the Envelope"
+		}, {
+			"source": 9,
+			"target": 327,
+			"paper": "The Politics of the Envelope"
+		}, {
+			"source": 9,
+			"target": 127,
+			"paper": "The Politics of the Envelope"
+		}, {
+			"source": 9,
+			"target": 165,
+			"paper": "The Politics of the Envelope"
+		}, {
+			"source": 9,
+			"target": 166,
+			"paper": "The Politics of the Envelope"
+		}, {
+			"source": 10,
+			"target": 11,
+			"paper": "Towards a New Materiality"
+		}, {
+			"source": 10,
+			"target": 367,
+			"paper": "Towards a New Materiality"
+		}, {
+			"source": 10,
+			"target": 67,
+			"paper": "Towards a New Materiality"
+		}, {
+			"source": 10,
+			"target": 102,
+			"paper": "Towards a New Materiality"
+		}, {
+			"source": 10,
+			"target": 186,
+			"paper": "Towards a New Materiality"
+		}, {
+			"source": 10,
+			"target": 331,
+			"paper": "Towards a New Materiality"
+		}, {
+			"source": 10,
+			"target": 60,
+			"paper": "Towards a New Materiality"
+		}, {
+			"source": 10,
+			"target": 272,
+			"paper": "Towards a New Materiality"
+		}, {
+			"source": 10,
+			"target": 282,
+			"paper": "Towards a New Materiality"
+		}, {
+			"source": 10,
+			"target": 239,
+			"paper": "Towards a New Materiality"
+		}, {
+			"source": 10,
+			"target": 348,
+			"paper": "Towards a New Materiality"
+		}, {
+			"source": 10,
+			"target": 317,
+			"paper": "Towards a New Materiality"
+		}, {
+			"source": 10,
+			"target": 175,
+			"paper": "Towards a New Materiality"
+		}, {
+			"source": 10,
+			"target": 236,
+			"paper": "Towards a New Materiality"
+		}, {
+			"source": 10,
+			"target": 81,
+			"paper": "Towards a New Materiality"
+		}, {
+			"source": 10,
+			"target": 369,
+			"paper": "Towards a New Materiality"
+		}, {
+			"source": 10,
+			"target": 169,
+			"paper": "Towards a New Materiality"
+		}, {
+			"source": 10,
+			"target": 299,
+			"paper": "Towards a New Materiality"
+		}, {
+			"source": 10,
+			"target": 5,
+			"paper": "Towards a New Materiality"
+		}, {
+			"source": 10,
+			"target": 330,
+			"paper": "Towards a New Materiality"
+		}, {
+			"source": 10,
+			"target": 323,
+			"paper": "Towards a New Materiality"
+		}, {
+			"source": 10,
+			"target": 45,
+			"paper": "Towards a New Materiality"
+		}, {
+			"source": 10,
+			"target": 287,
+			"paper": "Towards a New Materiality"
+		}, {
+			"source": 10,
+			"target": 142,
+			"paper": "Towards a New Materiality"
+		}, {
+			"source": 10,
+			"target": 136,
+			"paper": "Towards a New Materiality"
+		}, {
+			"source": 10,
+			"target": 58,
+			"paper": "Towards a New Materiality"
+		}, {
+			"source": 10,
+			"target": 347,
+			"paper": "Towards a New Materiality"
+		}, {
+			"source": 10,
+			"target": 22,
+			"paper": "Towards a New Materiality"
+		}, {
+			"source": 10,
+			"target": 74,
+			"paper": "Towards a New Materiality"
+		}, {
+			"source": 10,
+			"target": 179,
+			"paper": "Towards a New Materiality"
+		}, {
+			"source": 11,
+			"target": 152,
+			"paper": "The Case for the Tectonic"
+		}, {
+			"source": 11,
+			"target": 83,
+			"paper": "The Case for the Tectonic"
+		}, {
+			"source": 11,
+			"target": 142,
+			"paper": "The Case for the Tectonic"
+		}, {
+			"source": 11,
+			"target": 163,
+			"paper": "The Case for the Tectonic"
+		}, {
+			"source": 11,
+			"target": 354,
+			"paper": "The Case for the Tectonic"
+		}, {
+			"source": 11,
+			"target": 235,
+			"paper": "The Case for the Tectonic"
+		}, {
+			"source": 11,
+			"target": 206,
+			"paper": "The Case for the Tectonic"
+		}, {
+			"source": 12,
+			"target": 352,
+			"paper": "The World in a Shopping Mall"
+		}, {
+			"source": 12,
+			"target": 366,
+			"paper": "The World in a Shopping Mall"
+		}, {
+			"source": 12,
+			"target": 302,
+			"paper": "The World in a Shopping Mall"
+		}, {
+			"source": 12,
+			"target": 365,
+			"paper": "The World in a Shopping Mall"
+		}, {
+			"source": 12,
+			"target": 190,
+			"paper": "The World in a Shopping Mall"
+		}, {
+			"source": 12,
+			"target": 363,
+			"paper": "The World in a Shopping Mall"
+		}, {
+			"source": 12,
+			"target": 118,
+			"paper": "The World in a Shopping Mall"
+		}, {
+			"source": 12,
+			"target": 180,
+			"paper": "The World in a Shopping Mall"
+		}, {
+			"source": 12,
+			"target": 342,
+			"paper": "The World in a Shopping Mall"
+		}, {
+			"source": 12,
+			"target": 59,
+			"paper": "Can Architects be Socially Responsible?"
+		}, {
+			"source": 12,
+			"target": 48,
+			"paper": "Can Architects be Socially Responsible?"
+		}, {
+			"source": 12,
+			"target": 230,
+			"paper": "Can Architects be Socially Responsible?"
+		}, {
+			"source": 12,
+			"target": 344,
+			"paper": "Can Architects be Socially Responsible?"
+		}, {
+			"source": 12,
+			"target": 69,
+			"paper": "Can Architects be Socially Responsible?"
+		}, {
+			"source": 12,
+			"target": 89,
+			"paper": "Can Architects be Socially Responsible?"
+		}, {
+			"source": 12,
+			"target": 322,
+			"paper": "Can Architects be Socially Responsible?"
+		}, {
+			"source": 12,
+			"target": 309,
+			"paper": "Can Architects be Socially Responsible?"
+		}, {
+			"source": 12,
+			"target": 149,
+			"paper": "Can Architects be Socially Responsible?"
+		}, {
+			"source": 12,
+			"target": 325,
+			"paper": "Can Architects be Socially Responsible?"
+		}, {
+			"source": 12,
+			"target": 33,
+			"paper": "Can Architects be Socially Responsible?"
+		}, {
+			"source": 12,
+			"target": 340,
+			"paper": "Can Architects be Socially Responsible?"
+		}, {
+			"source": 12,
+			"target": 237,
+			"paper": "Can Architects be Socially Responsible?"
+		}, {
+			"source": 12,
+			"target": 295,
+			"paper": "Can Architects be Socially Responsible?"
+		}, {
+			"source": 12,
+			"target": 110,
+			"paper": "Can Architects be Socially Responsible?"
+		}, {
+			"source": 12,
+			"target": 141,
+			"paper": "Can Architects be Socially Responsible?"
+		}, {
+			"source": 12,
+			"target": 116,
+			"paper": "Can Architects be Socially Responsible?"
+		}, {
+			"source": 12,
+			"target": 285,
+			"paper": "Can Architects be Socially Responsible?"
+		}, {
+			"source": 12,
+			"target": 234,
+			"paper": "Can Architects be Socially Responsible?"
+		}, {
+			"source": 12,
+			"target": 158,
+			"paper": "Can Architects be Socially Responsible?"
+		}, {
+			"source": 12,
+			"target": 308,
+			"paper": "Can Architects be Socially Responsible?"
+		}, {
+			"source": 12,
+			"target": 219,
+			"paper": "Can Architects be Socially Responsible?"
+		}, {
+			"source": 12,
+			"target": 40,
+			"paper": "Can Architects be Socially Responsible?"
+		}, {
+			"source": 12,
+			"target": 305,
+			"paper": "Can Architects be Socially Responsible?"
+		}, {
+			"source": 12,
+			"target": 335,
+			"paper": "Can Architects be Socially Responsible?"
+		}, {
+			"source": 12,
+			"target": 100,
+			"paper": "Can Architects be Socially Responsible?"
+		}, {
+			"source": 12,
+			"target": 11,
+			"paper": "Can Architects be Socially Responsible?"
+		}, {
+			"source": 12,
+			"target": 329,
+			"paper": "Can Architects be Socially Responsible?"
+		}, {
+			"source": 13,
+			"target": 252,
+			"paper": "Postmodernism and Consumer Society"
+		}, {
+			"source": 14,
+			"target": 214,
+			"paper": "Preservation through Replication"
+		}, {
+			"source": 14,
+			"target": 63,
+			"paper": "Preservation through Replication"
+		}, {
+			"source": 14,
+			"target": 312,
+			"paper": "Preservation through Replication"
+		}, {
+			"source": 14,
+			"target": 271,
+			"paper": "Preservation through Replication"
+		}, {
+			"source": 14,
+			"target": 192,
+			"paper": "Preservation through Replication"
+		}, {
+			"source": 14,
+			"target": 291,
+			"paper": "Preservation through Replication"
+		}, {
+			"source": 14,
+			"target": 154,
+			"paper": "Preservation through Replication"
+		}, {
+			"source": 14,
+			"target": 42,
+			"paper": "Preservation through Replication"
+		}, {
+			"source": 14,
+			"target": 105,
+			"paper": "Preservation through Replication"
+		}, {
+			"source": 14,
+			"target": 277,
+			"paper": "Preservation through Replication"
+		}, {
+			"source": 14,
+			"target": 191,
+			"paper": "Preservation through Replication"
+		}, {
+			"source": 14,
+			"target": 350,
+			"paper": "Preservation through Replication"
+		}, {
+			"source": 14,
+			"target": 133,
+			"paper": "Preservation through Replication"
+		}, {
+			"source": 14,
+			"target": 174,
+			"paper": "Preservation through Replication"
+		}, {
+			"source": 14,
+			"target": 15,
+			"paper": "Preservation through Replication"
+		}, {
+			"source": 14,
+			"target": 159,
+			"paper": "Preservation through Replication"
+		}, {
+			"source": 14,
+			"target": 92,
+			"paper": "Preservation through Replication"
+		}, {
+			"source": 14,
+			"target": 162,
+			"paper": "Preservation through Replication"
+		}, {
+			"source": 14,
+			"target": 227,
+			"paper": "Preservation through Replication"
+		}, {
+			"source": 14,
+			"target": 262,
+			"paper": "Preservation through Replication"
+		}, {
+			"source": 14,
+			"target": 355,
+			"paper": "Preservation through Replication"
+		}, {
+			"source": 14,
+			"target": 345,
+			"paper": "Preservation through Replication"
+		}, {
+			"source": 14,
+			"target": 64,
+			"paper": "Preservation through Replication"
+		}, {
+			"source": 14,
+			"target": 67,
+			"paper": "Preservation through Replication"
+		}, {
+			"source": 14,
+			"target": 29,
+			"paper": "Preservation through Replication"
+		}, {
+			"source": 15,
+			"target": 197,
+			"paper": "Architectural Doppelgangers"
+		}, {
+			"source": 15,
+			"target": 147,
+			"paper": "Architectural Doppelgangers"
+		}, {
+			"source": 15,
+			"target": 159,
+			"paper": "Architectural Doppelgangers"
+		}, {
+			"source": 15,
+			"target": 138,
+			"paper": "Architectural Doppelgangers"
+		}, {
+			"source": 15,
+			"target": 184,
+			"paper": "Architectural Doppelgangers"
+		}, {
+			"source": 15,
+			"target": 250,
+			"paper": "Architectural Doppelgangers"
+		}, {
+			"source": 15,
+			"target": 79,
+			"paper": "Architectural Doppelgangers"
+		}, {
+			"source": 15,
+			"target": 355,
+			"paper": "Architectural Doppelgangers"
+		}, {
+			"source": 15,
+			"target": 68,
+			"paper": "Architectural Doppelgangers"
+		}, {
+			"source": 15,
+			"target": 61,
+			"paper": "Architectural Doppelgangers"
+		}, {
+			"source": 15,
+			"target": 67,
+			"paper": "Architectural Doppelgangers"
+		}, {
+			"source": 15,
+			"target": 29,
+			"paper": "Architectural Doppelgangers"
+		}, {
+			"source": 15,
+			"target": 361,
+			"paper": "Architectural Doppelgangers"
+		}, {
+			"source": 15,
+			"target": 306,
+			"paper": "Architectural Doppelgangers"
+		}, {
+			"source": 15,
+			"target": 146,
+			"paper": "Architectural Doppelgangers"
+		}, {
+			"source": 15,
+			"target": 8,
+			"paper": "Architectural Doppelgangers"
+		}, {
+			"source": 15,
+			"target": 341,
+			"paper": "Architectural Doppelgangers"
+		}, {
+			"source": 15,
+			"target": 32,
+			"paper": "Architectural Doppelgangers"
+		}, {
+			"source": 15,
+			"target": 316,
+			"paper": "Architectural Doppelgangers"
+		}, {
+			"source": 16,
+			"target": 131,
+			"paper": "The Architecture of Atmosphere"
+		}, {
+			"source": 16,
+			"target": 145,
+			"paper": "The Architecture of Atmosphere"
+		}, {
+			"source": 16,
+			"target": 148,
+			"paper": "The Architecture of Atmosphere"
+		}, {
+			"source": 16,
+			"target": 86,
+			"paper": "The Architecture of Atmosphere"
+		}, {
+			"source": 16,
+			"target": 168,
+			"paper": "The Architecture of Atmosphere"
+		}, {
+			"source": 16,
+			"target": 27,
+			"paper": "The Architecture of Atmosphere"
+		}, {
+			"source": 16,
+			"target": 225,
+			"paper": "The Architecture of Atmosphere"
+		}, {
+			"source": 16,
+			"target": 260,
+			"paper": "Story Time"
+		}, {
+			"source": 16,
+			"target": 205,
+			"paper": "Story Time"
+		}, {
+			"source": 16,
+			"target": 275,
+			"paper": "Story Time"
+		}, {
+			"source": 16,
+			"target": 354,
+			"paper": "Story Time"
+		}, {
+			"source": 16,
+			"target": 231,
+			"paper": "Story Time"
+		}, {
+			"source": 17,
+			"target": 360,
+			"paper": "Notes Around the Doppler Effect and Other Moods of Modernism"
+		}, {
+			"source": 18,
+			"target": 360,
+			"paper": "Notes Around the Doppler Effect and Other Moods of Modernism"
+		}, {
+			"source": 17,
+			"target": 249,
+			"paper": "Notes Around the Doppler Effect and Other Moods of Modernism"
+		}, {
+			"source": 18,
+			"target": 249,
+			"paper": "Notes Around the Doppler Effect and Other Moods of Modernism"
+		}, {
+			"source": 17,
+			"target": 24,
+			"paper": "Notes Around the Doppler Effect and Other Moods of Modernism"
+		}, {
+			"source": 18,
+			"target": 24,
+			"paper": "Notes Around the Doppler Effect and Other Moods of Modernism"
+		}, {
+			"source": 17,
+			"target": 332,
+			"paper": "Notes Around the Doppler Effect and Other Moods of Modernism"
+		}, {
+			"source": 18,
+			"target": 332,
+			"paper": "Notes Around the Doppler Effect and Other Moods of Modernism"
+		}, {
+			"source": 17,
+			"target": 4,
+			"paper": "Notes Around the Doppler Effect and Other Moods of Modernism"
+		}, {
+			"source": 18,
+			"target": 4,
+			"paper": "Notes Around the Doppler Effect and Other Moods of Modernism"
+		}, {
+			"source": 17,
+			"target": 275,
+			"paper": "Notes Around the Doppler Effect and Other Moods of Modernism"
+		}, {
+			"source": 18,
+			"target": 275,
+			"paper": "Notes Around the Doppler Effect and Other Moods of Modernism"
+		}, {
+			"source": 17,
+			"target": 85,
+			"paper": "Notes Around the Doppler Effect and Other Moods of Modernism"
+		}, {
+			"source": 18,
+			"target": 85,
+			"paper": "Notes Around the Doppler Effect and Other Moods of Modernism"
+		}, {
+			"source": 17,
+			"target": 231,
+			"paper": "Notes Around the Doppler Effect and Other Moods of Modernism"
+		}, {
+			"source": 18,
+			"target": 231,
+			"paper": "Notes Around the Doppler Effect and Other Moods of Modernism"
+		}, {
+			"source": 17,
+			"target": 153,
+			"paper": "Notes Around the Doppler Effect and Other Moods of Modernism"
+		}, {
+			"source": 18,
+			"target": 153,
+			"paper": "Notes Around the Doppler Effect and Other Moods of Modernism"
+		}, {
+			"source": 17,
+			"target": 13,
+			"paper": "Notes Around the Doppler Effect and Other Moods of Modernism"
+		}, {
+			"source": 18,
+			"target": 13,
+			"paper": "Notes Around the Doppler Effect and Other Moods of Modernism"
+		}, {
+			"source": 17,
+			"target": 250,
+			"paper": "Notes Around the Doppler Effect and Other Moods of Modernism"
+		}, {
+			"source": 18,
+			"target": 250,
+			"paper": "Notes Around the Doppler Effect and Other Moods of Modernism"
+		}, {
+			"source": 17,
+			"target": 242,
+			"paper": "Notes Around the Doppler Effect and Other Moods of Modernism"
+		}, {
+			"source": 18,
+			"target": 242,
+			"paper": "Notes Around the Doppler Effect and Other Moods of Modernism"
+		}, {
+			"source": 17,
+			"target": 143,
+			"paper": "Notes Around the Doppler Effect and Other Moods of Modernism"
+		}, {
+			"source": 18,
+			"target": 143,
+			"paper": "Notes Around the Doppler Effect and Other Moods of Modernism"
+		}, {
+			"source": 17,
+			"target": 126,
+			"paper": "Notes Around the Doppler Effect and Other Moods of Modernism"
+		}, {
+			"source": 18,
+			"target": 126,
+			"paper": "Notes Around the Doppler Effect and Other Moods of Modernism"
+		}, {
+			"source": 17,
+			"target": 77,
+			"paper": "Notes Around the Doppler Effect and Other Moods of Modernism"
+		}, {
+			"source": 18,
+			"target": 77,
+			"paper": "Notes Around the Doppler Effect and Other Moods of Modernism"
+		}, {
+			"source": 17,
+			"target": 371,
+			"paper": "Notes Around the Doppler Effect and Other Moods of Modernism"
+		}, {
+			"source": 18,
+			"target": 371,
+			"paper": "Notes Around the Doppler Effect and Other Moods of Modernism"
+		}, {
+			"source": 17,
+			"target": 303,
+			"paper": "Notes Around the Doppler Effect and Other Moods of Modernism"
+		}, {
+			"source": 18,
+			"target": 303,
+			"paper": "Notes Around the Doppler Effect and Other Moods of Modernism"
+		}, {
+			"source": 17,
+			"target": 152,
+			"paper": "Notes Around the Doppler Effect and Other Moods of Modernism"
+		}, {
+			"source": 18,
+			"target": 152,
+			"paper": "Notes Around the Doppler Effect and Other Moods of Modernism"
+		}, {
+			"source": 17,
+			"target": 91,
+			"paper": "Notes Around the Doppler Effect and Other Moods of Modernism"
+		}, {
+			"source": 18,
+			"target": 91,
+			"paper": "Notes Around the Doppler Effect and Other Moods of Modernism"
+		}, {
+			"source": 17,
+			"target": 275,
+			"paper": "Dummy Text"
+		}, {
+			"source": 17,
+			"target": 80,
+			"paper": "Dummy Text"
+		}, {
+			"source": 17,
+			"target": 295,
+			"paper": "Dummy Text"
+		}, {
+			"source": 17,
+			"target": 85,
+			"paper": "Dummy Text"
+		}, {
+			"source": 17,
+			"target": 143,
+			"paper": "Dummy Text"
+		}, {
+			"source": 17,
+			"target": 37,
+			"paper": "Dummy Text"
+		}, {
+			"source": 17,
+			"target": 195,
+			"paper": "Dummy Text"
+		}, {
+			"source": 17,
+			"target": 153,
+			"paper": "Dummy Text"
+		}, {
+			"source": 17,
+			"target": 223,
+			"paper": "Dummy Text"
+		}, {
+			"source": 17,
+			"target": 308,
+			"paper": "Dummy Text"
+		}, {
+			"source": 17,
+			"target": 83,
+			"paper": "Dummy Text"
+		}, {
+			"source": 17,
+			"target": 371,
+			"paper": "Dummy Text"
+		}, {
+			"source": 17,
+			"target": 311,
+			"paper": "Dummy Text"
+		}, {
+			"source": 17,
+			"target": 123,
+			"paper": "Dummy Text"
+		}, {
+			"source": 17,
+			"target": 107,
+			"paper": "Dummy Text"
+		}, {
+			"source": 17,
+			"target": 140,
+			"paper": "Dummy Text"
+		}, {
+			"source": 17,
+			"target": 198,
+			"paper": "Dummy Text"
+		}, {
+			"source": 17,
+			"target": 5,
+			"paper": "Dummy Text"
+		}, {
+			"source": 17,
+			"target": 249,
+			"paper": "Dummy Text"
+		}, {
+			"source": 17,
+			"target": 185,
+			"paper": "Dummy Text"
+		}, {
+			"source": 19,
+			"target": 308,
+			"paper": "Architectural Curvilinearity"
+		}, {
+			"source": 19,
+			"target": 323,
+			"paper": "Architectural Curvilinearity"
+		}, {
+			"source": 19,
+			"target": 204,
+			"paper": "Architectural Curvilinearity"
+		}, {
+			"source": 19,
+			"target": 143,
+			"paper": "Architectural Curvilinearity"
+		}, {
+			"source": 19,
+			"target": 16,
+			"paper": "Architectural Curvilinearity"
+		}, {
+			"source": 19,
+			"target": 238,
+			"paper": "Architectural Curvilinearity"
+		}, {
+			"source": 19,
+			"target": 8,
+			"paper": "Architectural Curvilinearity"
+		}, {
+			"source": 19,
+			"target": 50,
+			"paper": "Architectural Curvilinearity"
+		}, {
+			"source": 19,
+			"target": 73,
+			"paper": "Architectural Curvilinearity"
+		}, {
+			"source": 19,
+			"target": 17,
+			"paper": "Architectural Curvilinearity"
+		}, {
+			"source": 19,
+			"target": 106,
+			"paper": "Architectural Curvilinearity"
+		}, {
+			"source": 19,
+			"target": 170,
+			"paper": "Architectural Curvilinearity"
+		}, {
+			"source": 19,
+			"target": 18,
+			"paper": "Architectural Curvilinearity"
+		}, {
+			"source": 19,
+			"target": 108,
+			"paper": "Architectural Curvilinearity"
+		}, {
+			"source": 19,
+			"target": 198,
+			"paper": "Architectural Curvilinearity"
+		}, {
+			"source": 19,
+			"target": 320,
+			"paper": "Architectural Curvilinearity"
+		}, {
+			"source": 19,
+			"target": 85,
+			"paper": "Architectural Curvilinearity"
+		}, {
+			"source": 19,
+			"target": 362,
+			"paper": "Architectural Curvilinearity"
+		}, {
+			"source": 19,
+			"target": 121,
+			"paper": "Architectural Curvilinearity"
+		}, {
+			"source": 19,
+			"target": 0,
+			"paper": "Architectural Curvilinearity"
+		}, {
+			"source": 19,
+			"target": 4,
+			"paper": "Architectural Curvilinearity"
+		}, {
+			"source": 19,
+			"target": 140,
+			"paper": "Multiplicitous and Inorganic Bodies"
+		}, {
+			"source": 19,
+			"target": 320,
+			"paper": "Multiplicitous and Inorganic Bodies"
+		}, {
+			"source": 19,
+			"target": 275,
+			"paper": "Multiplicitous and Inorganic Bodies"
+		}, {
+			"source": 19,
+			"target": 85,
+			"paper": "Multiplicitous and Inorganic Bodies"
+		}, {
+			"source": 19,
+			"target": 362,
+			"paper": "Multiplicitous and Inorganic Bodies"
+		}, {
+			"source": 19,
+			"target": 259,
+			"paper": "Multiplicitous and Inorganic Bodies"
+		}, {
+			"source": 19,
+			"target": 124,
+			"paper": "Multiplicitous and Inorganic Bodies"
+		}, {
+			"source": 19,
+			"target": 353,
+			"paper": "Multiplicitous and Inorganic Bodies"
+		}, {
+			"source": 19,
+			"target": 170,
+			"paper": "Multiplicitous and Inorganic Bodies"
+		}, {
+			"source": 19,
+			"target": 98,
+			"paper": "Multiplicitous and Inorganic Bodies"
+		}, {
+			"source": 19,
+			"target": 8,
+			"paper": "Multiplicitous and Inorganic Bodies"
+		}, {
+			"source": 19,
+			"target": 210,
+			"paper": "Multiplicitous and Inorganic Bodies"
+		}, {
+			"source": 19,
+			"target": 90,
+			"paper": "Multiplicitous and Inorganic Bodies"
+		}, {
+			"source": 19,
+			"target": 228,
+			"paper": "Multiplicitous and Inorganic Bodies"
+		}, {
+			"source": 19,
+			"target": 143,
+			"paper": "Multiplicitous and Inorganic Bodies"
+		}, {
+			"source": 19,
+			"target": 126,
+			"paper": "Multiplicitous and Inorganic Bodies"
+		}, {
+			"source": 19,
+			"target": 113,
+			"paper": "Multiplicitous and Inorganic Bodies"
+		}, {
+			"source": 19,
+			"target": 294,
+			"paper": "Multiplicitous and Inorganic Bodies"
+		}, {
+			"source": 19,
+			"target": 140,
+			"paper": "Multiplicitous and Inorganic Bodies"
+		}, {
+			"source": 19,
+			"target": 323,
+			"paper": "Multiplicitous and Inorganic Bodies"
+		}, {
+			"source": 19,
+			"target": 275,
+			"paper": "Multiplicitous and Inorganic Bodies"
+		}, {
+			"source": 19,
+			"target": 130,
+			"paper": "Multiplicitous and Inorganic Bodies"
+		}, {
+			"source": 19,
+			"target": 245,
+			"paper": "Multiplicitous and Inorganic Bodies"
+		}, {
+			"source": 19,
+			"target": 111,
+			"paper": "Multiplicitous and Inorganic Bodies"
+		}, {
+			"source": 19,
+			"target": 311,
+			"paper": "Multiplicitous and Inorganic Bodies"
+		}, {
+			"source": 19,
+			"target": 182,
+			"paper": "Multiplicitous and Inorganic Bodies"
+		}, {
+			"source": 19,
+			"target": 125,
+			"paper": "Multiplicitous and Inorganic Bodies"
+		}, {
+			"source": 20,
+			"target": 72,
+			"paper": "The Rise of Network Culture"
+		}, {
+			"source": 20,
+			"target": 343,
+			"paper": "The Rise of Network Culture"
+		}, {
+			"source": 20,
+			"target": 76,
+			"paper": "The Rise of Network Culture"
+		}, {
+			"source": 20,
+			"target": 187,
+			"paper": "The Rise of Network Culture"
+		}, {
+			"source": 20,
+			"target": 324,
+			"paper": "The Rise of Network Culture"
+		}, {
+			"source": 20,
+			"target": 232,
+			"paper": "The Rise of Network Culture"
+		}, {
+			"source": 20,
+			"target": 251,
+			"paper": "The Rise of Network Culture"
+		}, {
+			"source": 20,
+			"target": 51,
+			"paper": "The Rise of Network Culture"
+		}, {
+			"source": 20,
+			"target": 13,
+			"paper": "The Rise of Network Culture"
+		}, {
+			"source": 20,
+			"target": 120,
+			"paper": "The Rise of Network Culture"
+		}, {
+			"source": 20,
+			"target": 150,
+			"paper": "The Rise of Network Culture"
+		}, {
+			"source": 20,
+			"target": 319,
+			"paper": "The Rise of Network Culture"
+		}, {
+			"source": 20,
+			"target": 225,
+			"paper": "The Rise of Network Culture"
+		}, {
+			"source": 20,
+			"target": 87,
+			"paper": "The Rise of Network Culture"
+		}, {
+			"source": 20,
+			"target": 318,
+			"paper": "The Rise of Network Culture"
+		}, {
+			"source": 20,
+			"target": 84,
+			"paper": "The Rise of Network Culture"
+		}, {
+			"source": 20,
+			"target": 161,
+			"paper": "The Rise of Network Culture"
+		}, {
+			"source": 20,
+			"target": 143,
+			"paper": "The Rise of Network Culture"
+		}, {
+			"source": 20,
+			"target": 170,
+			"paper": "The Rise of Network Culture"
+		}, {
+			"source": 20,
+			"target": 268,
+			"paper": "The Rise of Network Culture"
+		}, {
+			"source": 20,
+			"target": 357,
+			"paper": "The Rise of Network Culture"
+		}, {
+			"source": 20,
+			"target": 55,
+			"paper": "The Rise of Network Culture"
+		}, {
+			"source": 20,
+			"target": 248,
+			"paper": "The Rise of Network Culture"
+		}, {
+			"source": 20,
+			"target": 338,
+			"paper": "The Rise of Network Culture"
+		}, {
+			"source": 20,
+			"target": 339,
+			"paper": "The Rise of Network Culture"
+		}, {
+			"source": 20,
+			"target": 302,
+			"paper": "The Rise of Network Culture"
+		}, {
+			"source": 20,
+			"target": 265,
+			"paper": "The Rise of Network Culture"
+		}, {
+			"source": 20,
+			"target": 38,
+			"paper": "The Rise of Network Culture"
+		}, {
+			"source": 20,
+			"target": 334,
+			"paper": "The Rise of Network Culture"
+		}, {
+			"source": 20,
+			"target": 270,
+			"paper": "The Rise of Network Culture"
+		}, {
+			"source": 20,
+			"target": 370,
+			"paper": "The Rise of Network Culture"
+		}, {
+			"source": 20,
+			"target": 301,
+			"paper": "The Rise of Network Culture"
+		}, {
+			"source": 20,
+			"target": 321,
+			"paper": "The Rise of Network Culture"
+		}, {
+			"source": 20,
+			"target": 233,
+			"paper": "The Rise of Network Culture"
+		}, {
+			"source": 20,
+			"target": 82,
+			"paper": "The Rise of Network Culture"
+		}, {
+			"source": 20,
+			"target": 307,
+			"paper": "The Rise of Network Culture"
+		}, {
+			"source": 20,
+			"target": 254,
+			"paper": "The Rise of Network Culture"
+		}, {
+			"source": 20,
+			"target": 297,
+			"paper": "The Rise of Network Culture"
+		}, {
+			"source": 20,
+			"target": 49,
+			"paper": "The Rise of Network Culture"
+		}, {
+			"source": 20,
+			"target": 207,
+			"paper": "The Rise of Network Culture"
+		}, {
+			"source": 21,
+			"target": 56,
+			"paper": "Eidetic Operations and New Landscapes"
+		}, {
+			"source": 21,
+			"target": 196,
+			"paper": "Eidetic Operations and New Landscapes"
+		}, {
+			"source": 21,
+			"target": 200,
+			"paper": "Eidetic Operations and New Landscapes"
+		}, {
+			"source": 21,
+			"target": 246,
+			"paper": "Eidetic Operations and New Landscapes"
+		}, {
+			"source": 21,
+			"target": 257,
+			"paper": "Eidetic Operations and New Landscapes"
+		}, {
+			"source": 21,
+			"target": 292,
+			"paper": "Eidetic Operations and New Landscapes"
+		}, {
+			"source": 21,
+			"target": 97,
+			"paper": "Eidetic Operations and New Landscapes"
+		}, {
+			"source": 21,
+			"target": 193,
+			"paper": "Eidetic Operations and New Landscapes"
+		}, {
+			"source": 21,
+			"target": 367,
+			"paper": "Eidetic Operations and New Landscapes"
+		}, {
+			"source": 21,
+			"target": 173,
+			"paper": "Eidetic Operations and New Landscapes"
+		}, {
+			"source": 21,
+			"target": 95,
+			"paper": "Eidetic Operations and New Landscapes"
+		}, {
+			"source": 21,
+			"target": 249,
+			"paper": "Eidetic Operations and New Landscapes"
+		}, {
+			"source": 21,
+			"target": 243,
+			"paper": "Eidetic Operations and New Landscapes"
+		}, {
+			"source": 21,
+			"target": 203,
+			"paper": "Eidetic Operations and New Landscapes"
+		}, {
+			"source": 21,
+			"target": 41,
+			"paper": "Eidetic Operations and New Landscapes"
+		}, {
+			"source": 21,
+			"target": 36,
+			"paper": "Eidetic Operations and New Landscapes"
+		}, {
+			"source": 21,
+			"target": 129,
+			"paper": "Eidetic Operations and New Landscapes"
+		}, {
+			"source": 21,
+			"target": 235,
+			"paper": "Eidetic Operations and New Landscapes"
+		}, {
+			"source": 21,
+			"target": 94,
+			"paper": "Eidetic Operations and New Landscapes"
+		}, {
+			"source": 21,
+			"target": 369,
+			"paper": "Eidetic Operations and New Landscapes"
+		}, {
+			"source": 21,
+			"target": 0,
+			"paper": "Eidetic Operations and New Landscapes"
+		}, {
+			"source": 21,
+			"target": 57,
+			"paper": "Eidetic Operations and New Landscapes"
+		}, {
+			"source": 21,
+			"target": 209,
+			"paper": "Eidetic Operations and New Landscapes"
+		}, {
+			"source": 21,
+			"target": 169,
+			"paper": "Eidetic Operations and New Landscapes"
+		}, {
+			"source": 21,
+			"target": 299,
+			"paper": "Eidetic Operations and New Landscapes"
+		}, {
+			"source": 21,
+			"target": 323,
+			"paper": "Eidetic Operations and New Landscapes"
+		}, {
+			"source": 21,
+			"target": 316,
+			"paper": "Eidetic Operations and New Landscapes"
+		}, {
+			"source": 21,
+			"target": 241,
+			"paper": "Eidetic Operations and New Landscapes"
+		}, {
+			"source": 21,
+			"target": 122,
+			"paper": "Eidetic Operations and New Landscapes"
+		}, {
+			"source": 22,
+			"target": 0,
+			"paper": "Landscape as Urbanism"
+		}, {
+			"source": 22,
+			"target": 21,
+			"paper": "Landscape as Urbanism"
+		}, {
+			"source": 22,
+			"target": 209,
+			"paper": "Landscape as Urbanism"
+		}, {
+			"source": 22,
+			"target": 160,
+			"paper": "Landscape as Urbanism"
+		}, {
+			"source": 22,
+			"target": 240,
+			"paper": "Landscape as Urbanism"
+		}, {
+			"source": 22,
+			"target": 178,
+			"paper": "Landscape as Urbanism"
+		}, {
+			"source": 22,
+			"target": 308,
+			"paper": "Landscape as Urbanism"
+		}, {
+			"source": 22,
+			"target": 213,
+			"paper": "Landscape as Urbanism"
+		}, {
+			"source": 22,
+			"target": 35,
+			"paper": "Landscape as Urbanism"
+		}, {
+			"source": 22,
+			"target": 99,
+			"paper": "Landscape as Urbanism"
+		}, {
+			"source": 22,
+			"target": 333,
+			"paper": "Landscape as Urbanism"
+		}, {
+			"source": 22,
+			"target": 7,
+			"paper": "Landscape as Urbanism"
+		}, {
+			"source": 22,
+			"target": 269,
+			"paper": "Landscape as Urbanism"
+		}, {
+			"source": 22,
+			"target": 78,
+			"paper": "Landscape as Urbanism"
+		}, {
+			"source": 22,
+			"target": 52,
+			"paper": "Landscape as Urbanism"
+		}, {
+			"source": 22,
+			"target": 170,
+			"paper": "Landscape as Urbanism"
+		}, {
+			"source": 22,
+			"target": 6,
+			"paper": "Landscape as Urbanism"
+		}, {
+			"source": 22,
+			"target": 5,
+			"paper": "Landscape as Urbanism"
+		}, {
+			"source": 22,
+			"target": 11,
+			"paper": "Landscape as Urbanism"
+		}, {
+			"source": 22,
+			"target": 276,
+			"paper": "Landscape as Urbanism"
+		}, {
+			"source": 22,
+			"target": 221,
+			"paper": "Landscape as Urbanism"
+		}, {
+			"source": 22,
+			"target": 298,
+			"paper": "Landscape as Urbanism"
+		}, {
+			"source": 22,
+			"target": 359,
+			"paper": "Landscape as Urbanism"
+		}, {
+			"source": 22,
+			"target": 177,
+			"paper": "Landscape as Urbanism"
+		}, {
+			"source": 22,
+			"target": 304,
+			"paper": "Landscape as Urbanism"
+		}, {
+			"source": 22,
+			"target": 30,
+			"paper": "Landscape as Urbanism"
+		}, {
+			"source": 23,
+			"target": 304,
+			"paper": "Big Nature"
+		}, {
+			"source": 23,
+			"target": 226,
+			"paper": "Big Nature"
+		}, {
+			"source": 23,
+			"target": 39,
+			"paper": "Big Nature"
+		}, {
+			"source": 23,
+			"target": 160,
+			"paper": "Big Nature"
+		}, {
+			"source": 23,
+			"target": 115,
+			"paper": "Big Nature"
+		}, {
+			"source": 23,
+			"target": 220,
+			"paper": "Big Nature"
+		}, {
+			"source": 23,
+			"target": 70,
+			"paper": "Big Nature"
+		}, {
+			"source": 23,
+			"target": 46,
+			"paper": "Big Nature"
+		}, {
+			"source": 23,
+			"target": 368,
+			"paper": "Big Nature"
+		}, {
+			"source": 23,
+			"target": 290,
+			"paper": "Big Nature"
+		}, {
+			"source": 23,
+			"target": 34,
+			"paper": "Big Nature"
+		}, {
+			"source": 23,
+			"target": 137,
+			"paper": "Big Nature"
+		}, {
+			"source": 23,
+			"target": 304,
+			"paper": "Big Nature"
+		}, {
+			"source": 23,
+			"target": 278,
+			"paper": "Big Nature"
+		}, {
+			"source": 24,
+			"target": 308,
+			"paper": "Thoughts on the Everyday"
+		}, {
+			"source": 24,
+			"target": 99,
+			"paper": "Thoughts on the Everyday"
+		}, {
+			"source": 24,
+			"target": 333,
+			"paper": "Thoughts on the Everyday"
+		}, {
+			"source": 24,
+			"target": 332,
+			"paper": "Thoughts on the Everyday"
+		}, {
+			"source": 24,
+			"target": 336,
+			"paper": "Thoughts on the Everyday"
+		}, {
+			"source": 25,
+			"target": 112,
+			"paper": "The Media House"
+		}, {
+			"source": 25,
+			"target": 223,
+			"paper": "The Media House"
+		}, {
+			"source": 25,
+			"target": 119,
+			"paper": "The Media House"
+		}, {
+			"source": 25,
+			"target": 189,
+			"paper": "The Media House"
+		}, {
+			"source": 26,
+			"target": 114,
+			"paper": "Interview with Diller & Scofidio"
+		}, {
+			"source": 26,
+			"target": 296,
+			"paper": "Interview with Diller & Scofidio"
+		}, {
+			"source": 26,
+			"target": 4,
+			"paper": "Interview with Diller & Scofidio"
+		}, {
+			"source": 26,
+			"target": 28,
+			"paper": "Interview with Diller & Scofidio"
+		}
+
+	]
+
+}

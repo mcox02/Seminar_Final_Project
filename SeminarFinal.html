@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Matthew Cox - Seminar Final Project</title>
+	<meta charset="utf-8">
+	<link href = 'http://fonts.googleapis.com/css?family=Roboto:400,500,700' rel='stylesheet' type='text/css'>        
+   <!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+	<link href="style.css" rel="stylesheet"/>
+</head>
+<body>
+	<div class="container">
+		<div class="title">
+			<h1>Final Project for Seminar</h1>
+			<h3>The Contemporary Architectural Theorists Network</h3>
+		</div>
+		<div class="content">
+			<div class="instructions">
+			<h2>About</h2>
+				<p>The visualization to the left is an attempt to visualize the network of contemporary architectural theorists based off of readings during graduate school. The size of the nodes are based off of the amount of influence each person posesses. It is also important to note that this list only includes references to papers, conversations, interviews or ideas. It does not include examples of projects featured in the papers.
+				</p>
+
+				<h3>Possible Actions</h3>
+				<ul>
+				<li>Click a node to receive information about that person.</li>
+				<li>Hover over a link to see its connection.</li>
+				<li>Drag a node to see its effect on the network as a whole.</li>
+				
+				</ul>
+
+			</div>
+			<div class="canvas">
+				
+			</div>
+			<div class="bio">
+				<h2 class="name"></h2>
+        	    	<dl class="data-table">
+        	    		<dt class="group"></dt>
+        	    		<dd class="groupValue"></dd>
+
+        	    		<dt class="papers"></dt>
+        	    		<dd class="papersValue"></dd>
+
+        	    		<dt class="undergrad"></dt>
+        	    		<dd class="undergradValue"></dd>
+        	    		
+        	    		<dt class="graduate"></dt>
+        	    		<dd class="graduateValue"></dd>
+
+        	    		<dt class="phd"></dt>
+        	    		<dd class="phdValue"></dd>
+
+        	    		<dt class="goalsScored"></dt>
+        	    		<dd class="goalsScoredValue"></dd>
+        	    	</dl>
+			</div>
+			<div class = "analysis">
+				<h2>Analysis</h2>
+				<p>In total, there were 26 authors, writing 33 papers, citing 372 different people over 522 references. More important than the number of unique people however, is the amount of repeat references. Leading that category are Gilles Deleuze, Rem Koolhaas, and Peter Eisenman. Deleuze stands out in that he is not an architect but rather primarily wrote about philosophy, and fine art. During the data collection however, it was not uncommon to see philosophers and other non-architectural critics present themselves; Jacques Derrida, Felix Guattari and Michael Foucault all have multiple mentions as well.
+				<br>
+				<br>
+				As for influence (<i>try dragging differnent nodes!</i>), Robert Somol and Stan Allen seem to have the greatest impact. Kazys Varnelis draws upon the most people on a per paper basis, but due to the fact that very few of those references are shared with other writes, his impact becomes quite small. When it comes to the authors' backgrounds, a significant portion of the authors hail from Harvard's GSD.
+				<br>
+				<br>
+				It is also relevant to say that this is only a snapshot of the influence network as seen through the lens of a single graduate class. I intend to add to the data set as my school career continues as well as logging papers I have previously read.
+				<br>
+				<br>
+				If you'd like to contribute, please <a href="contactMe.html">email me</a> with the author, his or hers college career information and his or hers paper(s) and their references separated by paper.
+				</p>
+			</div>
+			
+		</div>
+	</div>
+
+	<script src="script/lib/jquery/jquery-1.11.1.min.js"></script>
+	<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+	<script src="script/lib/queue/queue.min.js"></script>
+	<script src="script/script.js"></script>
+</body>
+</html>

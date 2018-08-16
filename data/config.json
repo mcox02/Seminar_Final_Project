@@ -1,0 +1,38 @@
+{
+    "title" : "Contemporary Architectural Theorists",
+    "graph" : {
+        "linkDistance" : 150,
+        "charge"       : -400,
+        "height"       : 800,
+        "numColors"    : 12,
+        "labelPadding" : {
+            "left"   : 3,
+            "right"  : 3,
+            "top"    : 2,
+            "bottom" : 2
+        },
+        "labelMargin" : {
+            "left"   : 3,
+            "right"  : 3,
+            "top"    : 2,
+            "bottom" : 2
+        },
+        "ticksWithoutCollisions" : 50
+    },
+    "groups" : {
+        "Seminar Readings" : {
+            "short" : "Seminar Readings",
+            "long"  : "All the authors for the readings used in ARCH 6330."
+        },
+        
+    },
+    "constraints" : [ 
+        {
+            "has"    : { "group" : "Seminar Readings" },
+            "type"   : "position",
+            "x"      : 0.8,
+            "y"      : 0.8,
+            "weight" : 0.7
+        }
+    ]
+}
